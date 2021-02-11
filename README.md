@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chithambara Kumar</h1>
 <h3 align="center">Full stack developer</h3>
-<h3 align="center">Website - https://chithakumar13.github.io/</h3>
+<h3 align="center">Website - https://chithakumar13.github.io</h3>
+
+<h3 align="center">Youtube - https://www.youtube.com/c/ckalgos</h3>
 
 📫 Write to me - **chithakumar13@gmail.com** 
 
