@@ -1,4 +1,4 @@
-_0x2eea6c[_0x52ef7c(0x23c)][_0x52ef7c(0x360)] = function(_0x1dae61) {
+UTItemDAO.prototype.searchTransferMarket = function(_0x1dae61) {
         var _0x50fed9 = _0x52ef7c
           , _0x4cf02f = this
           , _0x5d2a49 = new EAObservable()
